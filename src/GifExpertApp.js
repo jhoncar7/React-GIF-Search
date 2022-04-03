@@ -7,7 +7,7 @@ const GifExpertApp = () => {
 
     console.log('GifExpertApp');
 
-    const [categories, setCategories] = useState(['One Punch']);
+    const [categories, setCategories] = useState(['Goku']);
     const [cont, setCont] = useState(1);
 
     /* const handleAdd = () => {
